@@ -1,0 +1,14 @@
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\bin\Debug\net6.0\Sudokuuuu.exe
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\bin\Debug\net6.0\Sudokuuuu.deps.json
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\bin\Debug\net6.0\Sudokuuuu.runtimeconfig.json
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\bin\Debug\net6.0\Sudokuuuu.dll
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\bin\Debug\net6.0\Sudokuuuu.pdb
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.AssemblyInfoInputs.cache
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.AssemblyInfo.cs
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.csproj.CoreCompileInputs.cache
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.dll
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\refint\Sudokuuuu.dll
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.pdb
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\Sudokuuuu.genruntimeconfig.cache
+C:\Users\ayala\source\repos\Sudokuuuu\Sudokuuuu\obj\Debug\net6.0\ref\Sudokuuuu.dll
